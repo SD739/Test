@@ -6,11 +6,6 @@
 
 This dashboard helps the Addidas company to understand their customers better. It helps the company know if their customers are satisfied with their services. Through different Operating details, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average unit sold & total sales, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these to improve sales as per regions.
 
-Since, number of neutral/dissatisfied customers (almost 57 %) are more than satisfied customers (around 43 %), thus in all they must work on improving their services. 
-
-Also since average delay in arrival & departure both is 15 minutes, thus they must try to reduce it.
-
-
 ### Steps followed 
 
 - Step 1 : Load data into Power BI Desktop, dataset is a excel file.
